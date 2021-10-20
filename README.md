@@ -1,4 +1,4 @@
-# activity 15: TensorFlow in Colab
+# activity 16: TensorFlow in Colab
 
 ## Opening the file in Colaboratory
 
